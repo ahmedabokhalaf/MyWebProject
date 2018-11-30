@@ -1,0 +1,45 @@
+.backGround{
+    background-image: url("pharmacy.jpg");background-attachment:fixed; background-repeat: no-repeat;background-size: cover; overflow: auto;
+}
+
+.head{ background-color: #778FC6; margin: auto; padding: 20px; text-indent: 60px;}
+
+.pharmacy, .head span{ letter-spacing: -2px; line-height: 40px; }
+
+.pharmacy{ color: #E00F40; text-decoration: none; font-size: 30px; font-weight: bold;}
+
+.head span{ float: right; text-indent: 30px; padding-right: 80px; word-spacing: 30px; font-size: 20px; }
+
+li{float: left;  list-style-type: none;}
+
+.sign{ text-decoration: none; color: #E00F40; font-size: 30px; font-weight: bold; }
+
+.sign:hover,.pharmacy:hover{color: #fff;}
+
+.login{ height: 320px; width: 350px; line-height: 30px; padding: 50px 50px 20px 50px; border: hidden; font-family: Arial; 
+    margin: auto; margin-bottom: 120px; margin-top: 120px; background-color: #DCA1EA; text-align: left; background-position: center;
+    color: #fff;}
+
+.login input{ width: 300px; padding: 15px; margin: 10px 20px; border-radius: 20px; font-size: 20px; }
+
+#btn_submit{ margin-top: 20px; padding: 20px 60px 20px 60px; background-color: #796587; color: #382B2B; border-color: #fff;
+    cursor: pointer; font-size: 20px; line-height: 20px; }
+
+#btn_submit:hover{ background-color: #6B6470; }
+ 
+ a{ text-decoration: none; color: #8C0BA5; font-size: larger; }
+
+.footr{ background-color: #fff; text-align: center; font-size: 20px; padding: 20px; }
+
+.footr a{ text-decoration: none; color: #68DD0F; }
+
+.footr a:hover{ text-decoration: underline; }
+
+
+
+
+
+
+
+
+

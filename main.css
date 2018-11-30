@@ -1,0 +1,78 @@
+.backGround{
+    background-image: url("pharmacy.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;    
+}
+
+.head{
+    background-color: #778FC6;
+    margin: auto;
+    padding: 20px;
+    text-indent: 60px;
+}
+
+.head span{
+    letter-spacing: -2px;
+    line-height: 40px;
+    float: right;
+    text-indent: 30px;
+    padding-right: 80px;
+    word-spacing: 30px;
+    font-size: 30px;
+    color: #E00F40;
+    font-weight: bold;
+}
+.pharmacy{
+    letter-spacing: -2px;
+    line-height: 40px;
+    color: #E00F40;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+table{
+    width: 1000px;
+    background-color: #E5C3CB;
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+}
+
+.check{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.footr{
+    background-color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.footr a{
+    text-decoration: none;
+    color: #68DD0F;
+}
+
+.footr a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+

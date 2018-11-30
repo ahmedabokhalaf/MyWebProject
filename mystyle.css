@@ -1,0 +1,37 @@
+.backGround{background-image: url("pharmacy.jpg");background-attachment:fixed;background-repeat: no-repeat;background-size: cover;overflow: auto;}
+.head{background-color: #778FC6;margin: auto; padding: 20px;text-indent: 60px;}
+.head span{letter-spacing: -2px;line-height: 40px;float: right;text-indent: 30px;
+padding-right: 80px;word-spacing: 30px;font-size: 30px;color: #E00F40;font-weight: bold;}
+
+.pharmacy{letter-spacing: -2px;line-height: 40px;color: #E00F40;text-decoration: none;font-size: 30px;font-weight: bold;}
+
+.signing{line-height: 30px; padding: 20px 50px 20px 50px; border: hidden;font-family: Arial;margin: auto;
+    margin-bottom: 120px; margin-top: 120px; text-align: left; background-position: center;color: #fff;}
+
+.signing input{width: 400px; padding: 15px;margin: 10px 20px;border-radius: 20px;background-color: #AD16A8;font-size: 20px;}
+
+label{font-size: larger;color: #8C0BA5;font-size: 20px}
+ 
+ .list{width: 200px;height: 50px;font-size: 20px;border-radius: 20px;background-color: #AD16A8;text-align: center;}
+ 
+ .btnsubmit{ margin-top: 20px; padding: 20px 60px 20px 60px;background-color: #796587;color: #382B2B;
+ border-color: #fff;cursor: pointer;font-size: 20px;line-height: 20px;}
+ .btnsubmit:hover{
+    background-color: #6B6470;
+}
+
+.footr{
+    background-color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.footr a{
+    text-decoration: none;
+    color: #68DD0F;
+}
+
+.footr a:hover{
+    text-decoration: underline;
+}
